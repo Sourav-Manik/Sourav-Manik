@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sourav-Manik
-- 👀 I’m interested in learning technical concepts.
+- 👀 I’m interested in learning AI related concepts.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Machine Learning algorithms.
 
