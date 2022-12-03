@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sourav-Manik
 - 👀 I’m interested in learning AI related concepts.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Machine Learning algorithms.
+- 💞️ I’m looking to collaborate on Machine learning and Deep learning python codes.
 
 <!---
 Sourav-Manik/Sourav-Manik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
